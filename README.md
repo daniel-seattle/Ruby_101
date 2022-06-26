@@ -1,2 +1,2 @@
-# Ruby_LS
-Programming assignments for the Introductory course on Ruby at Launch School
+# Ruby_101
+Programming assignments for the Ruby 101 course at Launch School
